@@ -57,7 +57,7 @@ st.markdown("# :earth_africa: Arabic Countries GDP dashboard")
 st.markdown("<p style='font-size:12px'>by Saad Serghini</p>", unsafe_allow_html=True)
 
 st.markdown('''
-Browse GDP data for all Arabic countries based on the [World Bank Open Data](https://data.worldbank.org/). Data range goes from 1960 to 2022, but some GDP's could be missing.
+Browse GDP data for all Arabic countries based on the [World Bank Open Data](https://data.worldbank.org/). Data range goes from 1960 to 2023, but some GDPs could be missing.
 ''')
 
 ''
